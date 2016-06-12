@@ -1,0 +1,3954 @@
+---
+rauchrob:
+  voxpupuli/puppet-mcollective:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+  voxpupuli/puppet-gluster:
+    :additions: 33
+    :deletions: 33
+    :commits: 5
+xaque208:
+  voxpupuli/puppet-mcollective:
+    :additions: 3
+    :deletions: 3
+    :commits: 1
+  voxpupuli/puppet-dhcp:
+    :additions: 1339
+    :deletions: 468
+    :commits: 57
+  voxpupuli/puppet-collectd:
+    :additions: 35
+    :deletions: 0
+    :commits: 2
+koaps:
+  voxpupuli/puppet-mcollective:
+    :additions: 8
+    :deletions: 4
+    :commits: 1
+kbarber:
+  voxpupuli/puppet-mcollective:
+    :additions: 1
+    :deletions: 12
+    :commits: 1
+DavidS:
+  voxpupuli/puppet-mcollective:
+    :additions: 5
+    :deletions: 3
+    :commits: 1
+  voxpupuli/puppet-network:
+    :additions: 1
+    :deletions: 0
+    :commits: 1
+  voxpupuli/puppet-windowsfeature:
+    :additions: 3
+    :deletions: 3
+    :commits: 1
+  voxpupuli/puppet-tea:
+    :additions: 10
+    :deletions: 1
+    :commits: 2
+Vincent--:
+  voxpupuli/puppet-mcollective:
+    :additions: 20
+    :deletions: 0
+    :commits: 1
+  voxpupuli/puppet-puppetboard:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+kwolf:
+  voxpupuli/puppet-mcollective:
+    :additions: 7
+    :deletions: 6
+    :commits: 1
+yapale:
+  voxpupuli/puppet-mcollective:
+    :additions: 1
+    :deletions: 3
+    :commits: 1
+vijaycs85:
+  voxpupuli/puppet-mcollective:
+    :additions: 0
+    :deletions: 60
+    :commits: 1
+patbos:
+  voxpupuli/puppet-mcollective:
+    :additions: 3
+    :deletions: 3
+    :commits: 1
+roman-mueller:
+  voxpupuli/puppet-mcollective:
+    :additions: 0
+    :deletions: 7
+    :commits: 1
+  voxpupuli/puppet-network:
+    :additions: 4
+    :deletions: 4
+    :commits: 1
+  voxpupuli/puppet-corosync:
+    :additions: 3
+    :deletions: 1
+    :commits: 1
+  voxpupuli/puppet-puppetserver:
+    :additions: 7
+    :deletions: 3
+    :commits: 2
+roidelapluie:
+  voxpupuli/puppet-mcollective:
+    :additions: 11
+    :deletions: 4
+    :commits: 1
+  voxpupuli/puppet-corosync:
+    :additions: 5084
+    :deletions: 2742
+    :commits: 65
+  voxpupuli/puppet-collectd:
+    :additions: 14
+    :deletions: 6
+    :commits: 1
+  voxpupuli/puppet-gerrit:
+    :additions: 622
+    :deletions: 129
+    :commits: 7
+  voxpupuli/puppet-zabbix:
+    :additions: 4
+    :deletions: 2
+    :commits: 1
+  voxpupuli/puppet-rundeck:
+    :additions: 12
+    :deletions: 3
+    :commits: 1
+  voxpupuli/puppet-kafka:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+  voxpupuli/puppet-extlib:
+    :additions: 10
+    :deletions: 3
+    :commits: 1
+  voxpupuli/puppet-archive:
+    :additions: 7
+    :deletions: 2
+    :commits: 1
+  voxpupuli/jenkins-puppet-syntax-check:
+    :additions: 152
+    :deletions: 0
+    :commits: 1
+buzzdeee:
+  voxpupuli/puppet-mcollective:
+    :additions: 79
+    :deletions: 22
+    :commits: 1
+  voxpupuli/puppet-staging:
+    :additions: 16
+    :deletions: 0
+    :commits: 1
+  voxpupuli/puppet-nodejs:
+    :additions: 3
+    :deletions: 3
+    :commits: 1
+stefanandres:
+  voxpupuli/puppet-mcollective:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+  voxpupuli/puppet-corosync:
+    :additions: 156
+    :deletions: 8
+    :commits: 1
+kscherer:
+  voxpupuli/puppet-mcollective:
+    :additions: 93
+    :deletions: 24
+    :commits: 1
+  voxpupuli/puppet-dhcp:
+    :additions: 45
+    :deletions: 46
+    :commits: 2
+saimonn:
+  voxpupuli/puppet-mcollective:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+  voxpupuli/puppet-puppetserver:
+    :additions: 55
+    :deletions: 1
+    :commits: 2
+pkrul:
+  voxpupuli/puppet-mcollective:
+    :additions: 8
+    :deletions: 1
+    :commits: 1
+vinzent:
+  voxpupuli/puppet-mcollective:
+    :additions: 53
+    :deletions: 15
+    :commits: 1
+choonming:
+  voxpupuli/puppet-mcollective:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+kmcfate:
+  voxpupuli/puppet-mcollective:
+    :additions: 2
+    :deletions: 10
+    :commits: 1
+carlossg:
+  voxpupuli/puppet-mcollective:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+  voxpupuli/puppet-blacksmith:
+    :additions: 2732
+    :deletions: 1067
+    :commits: 71
+hakamadare:
+  voxpupuli/puppet-mcollective:
+    :additions: 28
+    :deletions: 6
+    :commits: 2
+  voxpupuli/puppet-hiera:
+    :additions: 4
+    :deletions: 4
+    :commits: 1
+  voxpupuli/puppet-puppetboard:
+    :additions: 7
+    :deletions: 0
+    :commits: 1
+antaflos:
+  voxpupuli/puppet-mcollective:
+    :additions: 76
+    :deletions: 2
+    :commits: 2
+  voxpupuli/puppet-extlib:
+    :additions: 53
+    :deletions: 60
+    :commits: 2
+kedlav:
+  voxpupuli/puppet-mcollective:
+    :additions: 6
+    :deletions: 5
+    :commits: 2
+nibalizer:
+  voxpupuli/puppet-mcollective:
+    :additions: 64
+    :deletions: 24
+    :commits: 2
+  voxpupuli/puppet-bacula:
+    :additions: 498
+    :deletions: 132
+    :commits: 2
+  voxpupuli/puppet-network:
+    :additions: 41
+    :deletions: 0
+    :commits: 1
+  voxpupuli/puppet-staging:
+    :additions: 8
+    :deletions: 4
+    :commits: 2
+  voxpupuli/puppet-corosync:
+    :additions: 109
+    :deletions: 19
+    :commits: 2
+  voxpupuli/puppet-nodejs:
+    :additions: 16
+    :deletions: 3
+    :commits: 3
+  voxpupuli/puppet-drbd:
+    :additions: 43
+    :deletions: 17
+    :commits: 3
+  voxpupuli/puppet-git_resource:
+    :additions: 64
+    :deletions: 10
+    :commits: 6
+  voxpupuli/puppet-alternatives:
+    :additions: 72
+    :deletions: 11
+    :commits: 2
+  voxpupuli/puppet-collectd:
+    :additions: 61
+    :deletions: 19
+    :commits: 8
+  voxpupuli/puppet-windows_autoupdate:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+  voxpupuli/puppet-iis:
+    :additions: 24
+    :deletions: 4
+    :commits: 4
+  voxpupuli/puppet-puppetboard:
+    :additions: 883
+    :deletions: 340
+    :commits: 51
+  voxpupuli/puppet-ghost:
+    :additions: 6
+    :deletions: 4
+    :commits: 1
+  voxpupuli/puppet-stash:
+    :additions: 5
+    :deletions: 4
+    :commits: 1
+  voxpupuli/puppet-extlib:
+    :additions: 74
+    :deletions: 10
+    :commits: 11
+  voxpupuli/puppet-archive:
+    :additions: 34
+    :deletions: 22
+    :commits: 6
+  voxpupuli/puppet-healthcheck:
+    :additions: 156
+    :deletions: 3
+    :commits: 3
+  voxpupuli/puppet-community_kickstarts:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+bashtoni:
+  voxpupuli/puppet-mcollective:
+    :additions: 73
+    :deletions: 31
+    :commits: 2
+  voxpupuli/puppet-jenkins_job_builder:
+    :additions: 20
+    :deletions: 6
+    :commits: 2
+DavidGriffith:
+  voxpupuli/puppet-mcollective:
+    :additions: 33
+    :deletions: 16
+    :commits: 2
+kronos-pbrideau:
+  voxpupuli/puppet-mcollective:
+    :additions: 21
+    :deletions: 6
+    :commits: 2
+jhoblitt:
+  voxpupuli/puppet-mcollective:
+    :additions: 43
+    :deletions: 17
+    :commits: 2
+  voxpupuli/puppet-dhcp:
+    :additions: 25
+    :deletions: 17
+    :commits: 1
+  voxpupuli/puppet-network:
+    :additions: 442
+    :deletions: 39
+    :commits: 11
+  voxpupuli/puppet-corosync:
+    :additions: 278
+    :deletions: 1
+    :commits: 1
+  voxpupuli/puppet-drbd:
+    :additions: 6
+    :deletions: 3
+    :commits: 2
+  voxpupuli/puppet-alternatives:
+    :additions: 51
+    :deletions: 8
+    :commits: 3
+daenney:
+  voxpupuli/puppet-mcollective:
+    :additions: 5
+    :deletions: 4
+    :commits: 2
+  voxpupuli/puppet-network:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+  voxpupuli/puppet-nodejs:
+    :additions: 9
+    :deletions: 3
+    :commits: 1
+  voxpupuli/puppet-collectd:
+    :additions: 81
+    :deletions: 39
+    :commits: 1
+  voxpupuli/puppet-puppetboard:
+    :additions: 1
+    :deletions: 0
+    :commits: 1
+  voxpupuli/puppet-extlib:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+  voxpupuli/puppet-nagios_providers:
+    :additions: 2209
+    :deletions: 85
+    :commits: 4
+  voxpupuli/puppet-mysql_java_connector:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+  voxpupuli/puppet-unattended_upgrades:
+    :additions: 1027
+    :deletions: 178
+    :commits: 54
+  voxpupuli/puppet-facette:
+    :additions: 663
+    :deletions: 17
+    :commits: 14
+  voxpupuli/puppet-etherpad:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+jaxxstorm:
+  voxpupuli/puppet-mcollective:
+    :additions: 20
+    :deletions: 10
+    :commits: 3
+blkperl:
+  voxpupuli/puppet-mcollective:
+    :additions: 14
+    :deletions: 6
+    :commits: 3
+  voxpupuli/puppet-module-amanda:
+    :additions: 1037
+    :deletions: 152
+    :commits: 23
+  voxpupuli/puppet-collectd:
+    :additions: 2409
+    :deletions: 863
+    :commits: 78
+  voxpupuli/puppet-puppetboard:
+    :additions: 3
+    :deletions: 1
+    :commits: 2
+mcanevet:
+  voxpupuli/puppet-mcollective:
+    :additions: 20
+    :deletions: 15
+    :commits: 3
+  voxpupuli/puppet-staging:
+    :additions: 33
+    :deletions: 1
+    :commits: 3
+  voxpupuli/puppet-nodejs:
+    :additions: 11
+    :deletions: 6
+    :commits: 2
+  voxpupuli/puppet-puppetserver:
+    :additions: 1535
+    :deletions: 406
+    :commits: 98
+  voxpupuli/puppet-lint-unquoted_string-check:
+    :additions: 1078
+    :deletions: 199
+    :commits: 21
+  voxpupuli/puppet-lint-spaceship_operator_without_tag-check:
+    :additions: 383
+    :deletions: 2
+    :commits: 2
+  voxpupuli/puppet-unattended_upgrades:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+mvisonneau:
+  voxpupuli/puppet-mcollective:
+    :additions: 37
+    :deletions: 5
+    :commits: 3
+pythianjoseph:
+  voxpupuli/puppet-mcollective:
+    :additions: 17
+    :deletions: 5
+    :commits: 3
+jyaworski:
+  voxpupuli/puppet-mcollective:
+    :additions: 901
+    :deletions: 485
+    :commits: 3
+  voxpupuli/puppet-module-amanda:
+    :additions: 320
+    :deletions: 169
+    :commits: 1
+  voxpupuli/puppet-network:
+    :additions: 1919
+    :deletions: 1375
+    :commits: 2
+  voxpupuli/puppet-staging:
+    :additions: 69
+    :deletions: 84
+    :commits: 1
+  voxpupuli/puppet-corosync:
+    :additions: 7
+    :deletions: 4
+    :commits: 1
+  voxpupuli/puppet-nodejs:
+    :additions: 450
+    :deletions: 363
+    :commits: 1
+  voxpupuli/puppet-filemapper:
+    :additions: 733
+    :deletions: 324
+    :commits: 2
+  voxpupuli/puppet-hiera:
+    :additions: 582
+    :deletions: 670
+    :commits: 5
+  voxpupuli/puppet-collectd:
+    :additions: 1787
+    :deletions: 1097
+    :commits: 23
+  voxpupuli/puppet-puppetboard:
+    :additions: 580
+    :deletions: 304
+    :commits: 11
+  voxpupuli/puppet-minecraft:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+  voxpupuli/puppet-rundeck:
+    :additions: 2916
+    :deletions: 2750
+    :commits: 18
+  voxpupuli/puppet-gluster:
+    :additions: 11
+    :deletions: 6
+    :commits: 1
+  voxpupuli/puppet-extlib:
+    :additions: 451
+    :deletions: 293
+    :commits: 6
+  voxpupuli/puppet-archive:
+    :additions: 700
+    :deletions: 492
+    :commits: 4
+  voxpupuli/puppet-unattended_upgrades:
+    :additions: 226
+    :deletions: 139
+    :commits: 1
+hunner:
+  voxpupuli/puppet-mcollective:
+    :additions: 65
+    :deletions: 33
+    :commits: 4
+  voxpupuli/puppet-dhcp:
+    :additions: 18
+    :deletions: 3
+    :commits: 2
+  voxpupuli/puppet-staging:
+    :additions: 9
+    :deletions: 9
+    :commits: 1
+  voxpupuli/puppet-corosync:
+    :additions: 315
+    :deletions: 66
+    :commits: 19
+  voxpupuli/puppet-nodejs:
+    :additions: 10
+    :deletions: 45
+    :commits: 4
+  voxpupuli/puppet-drbd:
+    :additions: 616
+    :deletions: 223
+    :commits: 11
+  voxpupuli/puppet-hiera:
+    :additions: 1321
+    :deletions: 546
+    :commits: 44
+  voxpupuli/puppet-windowsfeature:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+dhoppe:
+  voxpupuli/puppet-mcollective:
+    :additions: 214
+    :deletions: 148
+    :commits: 4
+  voxpupuli/puppet-bacula:
+    :additions: 153
+    :deletions: 110
+    :commits: 4
+  voxpupuli/puppet-jira:
+    :additions: 2107
+    :deletions: 1925
+    :commits: 12
+  voxpupuli/puppet-collectd:
+    :additions: 1706
+    :deletions: 1512
+    :commits: 13
+  voxpupuli/puppet-ghost:
+    :additions: 110
+    :deletions: 62
+    :commits: 7
+  voxpupuli/puppet-stash:
+    :additions: 647
+    :deletions: 504
+    :commits: 18
+  voxpupuli/puppet-confluence:
+    :additions: 1070
+    :deletions: 1050
+    :commits: 11
+  voxpupuli/puppet-kafka:
+    :additions: 2544
+    :deletions: 1312
+    :commits: 50
+  voxpupuli/puppet-archive:
+    :additions: 5
+    :deletions: 0
+    :commits: 1
+jasperla:
+  voxpupuli/puppet-mcollective:
+    :additions: 14
+    :deletions: 13
+    :commits: 4
+  voxpupuli/puppet-network:
+    :additions: 5
+    :deletions: 5
+    :commits: 2
+  voxpupuli/puppet-puppetboard:
+    :additions: 7
+    :deletions: 1
+    :commits: 1
+ccaum:
+  voxpupuli/puppet-mcollective:
+    :additions: 19
+    :deletions: 11
+    :commits: 4
+  voxpupuli/puppet-bacula:
+    :additions: 2023
+    :deletions: 143
+    :commits: 30
+rhoml:
+  voxpupuli/puppet-mcollective:
+    :additions: 24
+    :deletions: 4
+    :commits: 4
+bastelfreak:
+  voxpupuli/puppet-mcollective:
+    :additions: 111
+    :deletions: 53
+    :commits: 5
+  voxpupuli/puppet-dhcp:
+    :additions: 1232
+    :deletions: 261
+    :commits: 45
+  voxpupuli/puppet-bacula:
+    :additions: 80
+    :deletions: 37
+    :commits: 5
+  voxpupuli/puppet-staging:
+    :additions: 885
+    :deletions: 210
+    :commits: 8
+  voxpupuli/puppet-corosync:
+    :additions: 203
+    :deletions: 185
+    :commits: 3
+  voxpupuli/puppet-nodejs:
+    :additions: 75
+    :deletions: 42
+    :commits: 6
+  voxpupuli/puppet-drbd:
+    :additions: 889
+    :deletions: 191
+    :commits: 27
+  voxpupuli/puppet-jira:
+    :additions: 95
+    :deletions: 37
+    :commits: 4
+  voxpupuli/puppet-hiera:
+    :additions: 77
+    :deletions: 38
+    :commits: 7
+  voxpupuli/puppet-collectd:
+    :additions: 33
+    :deletions: 22
+    :commits: 4
+  voxpupuli/puppet-windows_firewall:
+    :additions: 186
+    :deletions: 149
+    :commits: 5
+  voxpupuli/puppet-msoffice:
+    :additions: 2240
+    :deletions: 2086
+    :commits: 36
+  voxpupuli/puppet-iis:
+    :additions: 18
+    :deletions: 14
+    :commits: 2
+  voxpupuli/puppet-windows_eventlog:
+    :additions: 49
+    :deletions: 34
+    :commits: 4
+  voxpupuli/puppet-puppetboard:
+    :additions: 81
+    :deletions: 56
+    :commits: 12
+  voxpupuli/puppet-download_file:
+    :additions: 201
+    :deletions: 150
+    :commits: 6
+  voxpupuli/puppet-minecraft:
+    :additions: 490
+    :deletions: 22
+    :commits: 7
+  voxpupuli/puppet-ghost:
+    :additions: 202
+    :deletions: 90
+    :commits: 2
+  voxpupuli/puppet-confluence:
+    :additions: 61
+    :deletions: 56
+    :commits: 7
+  voxpupuli/puppet-zabbix:
+    :additions: 4233
+    :deletions: 3640
+    :commits: 272
+  voxpupuli/puppet-rundeck:
+    :additions: 12
+    :deletions: 10
+    :commits: 5
+  voxpupuli/puppet-kafka:
+    :additions: 17
+    :deletions: 2
+    :commits: 2
+  voxpupuli/puppet-jenkins_job_builder:
+    :additions: 818
+    :deletions: 244
+    :commits: 13
+  voxpupuli/puppet-gluster:
+    :additions: 1365
+    :deletions: 683
+    :commits: 50
+  voxpupuli/puppet-extlib:
+    :additions: 6
+    :deletions: 2
+    :commits: 2
+  voxpupuli/puppet-archive:
+    :additions: 996
+    :deletions: 376
+    :commits: 10
+  voxpupuli/puppet-mysql_java_connector:
+    :additions: 532
+    :deletions: 358
+    :commits: 23
+  voxpupuli/puppet-unattended_upgrades:
+    :additions: 92
+    :deletions: 34
+    :commits: 5
+  voxpupuli/puppet-community_kickstarts:
+    :additions: 922
+    :deletions: 643
+    :commits: 17
+  voxpupuli/puppet-tea:
+    :additions: 52
+    :deletions: 14
+    :commits: 7
+mrzarquon:
+  voxpupuli/puppet-mcollective:
+    :additions: 10
+    :deletions: 431
+    :commits: 5
+underscorgan:
+  voxpupuli/puppet-mcollective:
+    :additions: 100
+    :deletions: 29
+    :commits: 6
+  voxpupuli/puppet-dhcp:
+    :additions: 79
+    :deletions: 104
+    :commits: 4
+  voxpupuli/puppet-staging:
+    :additions: 61
+    :deletions: 3
+    :commits: 2
+  voxpupuli/puppet-corosync:
+    :additions: 129
+    :deletions: 134
+    :commits: 2
+  voxpupuli/puppet-nodejs:
+    :additions: 140
+    :deletions: 113
+    :commits: 4
+  voxpupuli/puppet-unattended_upgrades:
+    :additions: 313
+    :deletions: 31
+    :commits: 3
+alexjfisher:
+  voxpupuli/puppet-mcollective:
+    :additions: 213
+    :deletions: 91
+    :commits: 7
+  voxpupuli/puppet-dhcp:
+    :additions: 187
+    :deletions: 195
+    :commits: 11
+  voxpupuli/puppet-staging:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+  voxpupuli/puppet-jira:
+    :additions: 4
+    :deletions: 2
+    :commits: 1
+  voxpupuli/puppet-hiera:
+    :additions: 146
+    :deletions: 41
+    :commits: 2
+  voxpupuli/puppet-collectd:
+    :additions: 122
+    :deletions: 4
+    :commits: 2
+  voxpupuli/puppet-minecraft:
+    :additions: 2
+    :deletions: 2
+    :commits: 1
+  voxpupuli/puppet-rundeck:
+    :additions: 3
+    :deletions: 3
+    :commits: 1
+  voxpupuli/puppet-kafka:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+petems:
+  voxpupuli/puppet-mcollective:
+    :additions: 246
+    :deletions: 106
+    :commits: 8
+  voxpupuli/puppet-nodejs:
+    :additions: 24
+    :deletions: 0
+    :commits: 1
+  voxpupuli/puppet-blacksmith:
+    :additions: 20
+    :deletions: 3
+    :commits: 2
+  voxpupuli/puppet-collectd:
+    :additions: 91
+    :deletions: 44
+    :commits: 5
+  voxpupuli/puppet-iis:
+    :additions: 664
+    :deletions: 336
+    :commits: 13
+  voxpupuli/puppet-windowsfeature:
+    :additions: 353
+    :deletions: 173
+    :commits: 13
+  voxpupuli/puppet-ghost:
+    :additions: 795
+    :deletions: 302
+    :commits: 24
+  voxpupuli/puppet-rundeck:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+igalic:
+  voxpupuli/puppet-mcollective:
+    :additions: 227
+    :deletions: 198
+    :commits: 8
+  voxpupuli/puppet-network:
+    :additions: 324
+    :deletions: 150
+    :commits: 11
+  voxpupuli/puppet-nodejs:
+    :additions: 249
+    :deletions: 480
+    :commits: 5
+  voxpupuli/puppet-filemapper:
+    :additions: 6
+    :deletions: 2
+    :commits: 3
+  voxpupuli/puppet-hiera:
+    :additions: 9
+    :deletions: 3
+    :commits: 1
+  voxpupuli/puppet-collectd:
+    :additions: 1413
+    :deletions: 1938
+    :commits: 13
+  voxpupuli/puppet-msoffice:
+    :additions: 105
+    :deletions: 57
+    :commits: 4
+  voxpupuli/puppet-puppetboard:
+    :additions: 51
+    :deletions: 10
+    :commits: 2
+  voxpupuli/puppet-download_file:
+    :additions: 66
+    :deletions: 55
+    :commits: 1
+  voxpupuli/puppet-stash:
+    :additions: 41
+    :deletions: 36
+    :commits: 2
+  voxpupuli/puppet-zabbix:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+  voxpupuli/puppet-rundeck:
+    :additions: 24
+    :deletions: 6
+    :commits: 3
+  voxpupuli/puppet-extlib:
+    :additions: 1655
+    :deletions: 699
+    :commits: 45
+  voxpupuli/puppet-archive:
+    :additions: 19
+    :deletions: 4
+    :commits: 5
+  voxpupuli/puppet-mysql_java_connector:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+  voxpupuli/puppet-unattended_upgrades:
+    :additions: 320
+    :deletions: 234
+    :commits: 4
+  voxpupuli/puppet-etherpad:
+    :additions: 1974
+    :deletions: 145
+    :commits: 26
+  voxpupuli/puppet-tea:
+    :additions: 373
+    :deletions: 14
+    :commits: 6
+  voxpupuli/puppet-jolokia:
+    :additions: 1130
+    :deletions: 149
+    :commits: 7
+jantman:
+  voxpupuli/puppet-mcollective:
+    :additions: 188
+    :deletions: 16
+    :commits: 8
+  voxpupuli/puppet-puppetboard:
+    :additions: 150
+    :deletions: 9
+    :commits: 1
+richardc:
+  voxpupuli/puppet-mcollective:
+    :additions: 4074
+    :deletions: 4399
+    :commits: 20
+reidmv:
+  voxpupuli/puppet-mcollective:
+    :additions: 1067
+    :deletions: 769
+    :commits: 21
+  voxpupuli/puppet-module-amanda:
+    :additions: 2537
+    :deletions: 1055
+    :commits: 44
+  voxpupuli/puppet-staging:
+    :additions: 104
+    :deletions: 54
+    :commits: 8
+  voxpupuli/puppet-filemapper:
+    :additions: 1
+    :deletions: 0
+    :commits: 1
+  voxpupuli/puppet-hiera:
+    :additions: 17
+    :deletions: 8
+    :commits: 2
+glarizza:
+  voxpupuli/puppet-mcollective:
+    :additions: 1111
+    :deletions: 341
+    :commits: 25
+  voxpupuli/puppet-lint-appends-check:
+    :additions: 401
+    :deletions: 3
+    :commits: 2
+  voxpupuli/puppet-lint-classes_and_types_beginning_with_digits-check:
+    :additions: 429
+    :deletions: 2
+    :commits: 2
+jeffmccune:
+  voxpupuli/puppet-mcollective:
+    :additions: 4182
+    :deletions: 466
+    :commits: 63
+  voxpupuli/puppet-dhcp:
+    :additions: 82
+    :deletions: 100
+    :commits: 9
+adrienthebo:
+  voxpupuli/puppet-dhcp:
+    :additions: 11
+    :deletions: 9
+    :commits: 1
+  voxpupuli/puppet-network:
+    :additions: 4682
+    :deletions: 1968
+    :commits: 279
+  voxpupuli/puppet-staging:
+    :additions: 19
+    :deletions: 0
+    :commits: 3
+  voxpupuli/puppet-filemapper:
+    :additions: 2397
+    :deletions: 1136
+    :commits: 109
+  voxpupuli/puppet-alternatives:
+    :additions: 564
+    :deletions: 31
+    :commits: 19
+ody:
+  voxpupuli/puppet-dhcp:
+    :additions: 10
+    :deletions: 2
+    :commits: 1
+  voxpupuli/puppet-corosync:
+    :additions: 1820
+    :deletions: 495
+    :commits: 20
+iNecas:
+  voxpupuli/puppet-dhcp:
+    :additions: 13
+    :deletions: 0
+    :commits: 1
+GregSutcliffe:
+  voxpupuli/puppet-dhcp:
+    :additions: 3
+    :deletions: 1
+    :commits: 1
+9bryan:
+  voxpupuli/puppet-dhcp:
+    :additions: 5
+    :deletions: 0
+    :commits: 1
+sdunster:
+  voxpupuli/puppet-dhcp:
+    :additions: 46
+    :deletions: 0
+    :commits: 1
+bmjen:
+  voxpupuli/puppet-dhcp:
+    :additions: 36
+    :deletions: 11
+    :commits: 1
+saz:
+  voxpupuli/puppet-dhcp:
+    :additions: 1
+    :deletions: 2
+    :commits: 1
+  voxpupuli/puppet-nodejs:
+    :additions: 7
+    :deletions: 0
+    :commits: 1
+chrisdaish:
+  voxpupuli/puppet-dhcp:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+dgmorales:
+  voxpupuli/puppet-dhcp:
+    :additions: 41
+    :deletions: 1
+    :commits: 1
+ahaitoute:
+  voxpupuli/puppet-dhcp:
+    :additions: 18
+    :deletions: 2
+    :commits: 1
+faja:
+  voxpupuli/puppet-dhcp:
+    :additions: 5
+    :deletions: 1
+    :commits: 1
+drt24:
+  voxpupuli/puppet-dhcp:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+wolfspyre:
+  voxpupuli/puppet-dhcp:
+    :additions: 113
+    :deletions: 0
+    :commits: 2
+  voxpupuli/puppet-network:
+    :additions: 238
+    :deletions: 49
+    :commits: 5
+  voxpupuli/puppet-nodejs:
+    :additions: 200
+    :deletions: 63
+    :commits: 3
+jaydub:
+  voxpupuli/puppet-dhcp:
+    :additions: 13
+    :deletions: 10
+    :commits: 2
+jearls:
+  voxpupuli/puppet-dhcp:
+    :additions: 2
+    :deletions: 2
+    :commits: 2
+mattkirby:
+  voxpupuli/puppet-dhcp:
+    :additions: 85
+    :deletions: 11
+    :commits: 2
+  voxpupuli/puppet-hiera:
+    :additions: 40
+    :deletions: 31
+    :commits: 1
+crayfishx:
+  voxpupuli/puppet-dhcp:
+    :additions: 6
+    :deletions: 1
+    :commits: 2
+  voxpupuli/puppet-hiera:
+    :additions: 10
+    :deletions: 3
+    :commits: 1
+  voxpupuli/puppet-rundeck:
+    :additions: 41
+    :deletions: 57
+    :commits: 2
+michaelweiser:
+  voxpupuli/puppet-dhcp:
+    :additions: 19
+    :deletions: 18
+    :commits: 2
+pecastro:
+  voxpupuli/puppet-dhcp:
+    :additions: 20
+    :deletions: 20
+    :commits: 3
+nanliu:
+  voxpupuli/puppet-dhcp:
+    :additions: 74
+    :deletions: 69
+    :commits: 3
+  voxpupuli/puppet-network:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+  voxpupuli/puppet-staging:
+    :additions: 2528
+    :deletions: 969
+    :commits: 69
+  voxpupuli/puppet-nodejs:
+    :additions: 996
+    :deletions: 59
+    :commits: 20
+  voxpupuli/puppet-git_resource:
+    :additions: 558
+    :deletions: 243
+    :commits: 15
+  voxpupuli/puppet-stash:
+    :additions: 86
+    :deletions: 4
+    :commits: 3
+  voxpupuli/puppet-archive:
+    :additions: 7363
+    :deletions: 1133
+    :commits: 90
+ghoneycutt:
+  voxpupuli/puppet-dhcp:
+    :additions: 236
+    :deletions: 127
+    :commits: 4
+  voxpupuli/puppet-corosync:
+    :additions: 2
+    :deletions: 2
+    :commits: 1
+  voxpupuli/puppet-nodejs:
+    :additions: 79
+    :deletions: 2
+    :commits: 3
+  voxpupuli/puppet-collectd:
+    :additions: 514
+    :deletions: 57
+    :commits: 3
+  voxpupuli/puppet-windows_autoupdate:
+    :additions: 86
+    :deletions: 82
+    :commits: 6
+  voxpupuli/puppet-puppetboard:
+    :additions: 4
+    :deletions: 4
+    :commits: 1
+ekohl:
+  voxpupuli/puppet-dhcp:
+    :additions: 23
+    :deletions: 2
+    :commits: 4
+  voxpupuli/puppet-network:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+  voxpupuli/puppet-zabbix:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+treydock:
+  voxpupuli/puppet-dhcp:
+    :additions: 202
+    :deletions: 10
+    :commits: 5
+  voxpupuli/puppet-hiera:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+sfozz:
+  voxpupuli/puppet-dhcp:
+    :additions: 143
+    :deletions: 69
+    :commits: 7
+barn:
+  voxpupuli/puppet-dhcp:
+    :additions: 130
+    :deletions: 67
+    :commits: 23
+StFS:
+  voxpupuli/puppet-module-amanda:
+    :additions: 9
+    :deletions: 3
+    :commits: 1
+cmurphy:
+  voxpupuli/puppet-module-amanda:
+    :additions: 13
+    :deletions: 2
+    :commits: 1
+  voxpupuli/puppet-corosync:
+    :additions: 12
+    :deletions: 2
+    :commits: 1
+  voxpupuli/puppet-collectd:
+    :additions: 320
+    :deletions: 20
+    :commits: 9
+  voxpupuli/puppet-puppetboard:
+    :additions: 242
+    :deletions: 4
+    :commits: 4
+cdelston:
+  voxpupuli/puppet-module-amanda:
+    :additions: 3
+    :deletions: 2
+    :commits: 2
+tailcat:
+  voxpupuli/puppet-module-amanda:
+    :additions: 44
+    :deletions: 31
+    :commits: 4
+  voxpupuli/puppet-collectd:
+    :additions: 73
+    :deletions: 62
+    :commits: 3
+rendhalver:
+  voxpupuli/puppet-module-amanda:
+    :additions: 39
+    :deletions: 18
+    :commits: 4
+deadpoint:
+  voxpupuli/puppet-module-amanda:
+    :additions: 167
+    :deletions: 61
+    :commits: 17
+VerosK:
+  voxpupuli/puppet-bacula:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+smalla:
+  voxpupuli/puppet-bacula:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+mescanef:
+  voxpupuli/puppet-bacula:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+sebastian-su:
+  voxpupuli/puppet-bacula:
+    :additions: 188
+    :deletions: 63
+    :commits: 2
+msurdi:
+  voxpupuli/puppet-bacula:
+    :additions: 8
+    :deletions: 4
+    :commits: 2
+diddi-:
+  voxpupuli/puppet-bacula:
+    :additions: 4
+    :deletions: 4
+    :commits: 3
+codec:
+  voxpupuli/puppet-network:
+    :additions: 341
+    :deletions: 1
+    :commits: 1
+  voxpupuli/puppet-puppetboard:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+stzilli:
+  voxpupuli/puppet-network:
+    :additions: 17
+    :deletions: 1
+    :commits: 1
+Yuav:
+  voxpupuli/puppet-network:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+c33s:
+  voxpupuli/puppet-network:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+fraenki:
+  voxpupuli/puppet-network:
+    :additions: 16
+    :deletions: 7
+    :commits: 1
+robbat2:
+  voxpupuli/puppet-network:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+derekhiggins:
+  voxpupuli/puppet-network:
+    :additions: 11
+    :deletions: 2
+    :commits: 1
+Xylakant:
+  voxpupuli/puppet-network:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+rnelson0:
+  voxpupuli/puppet-network:
+    :additions: 198
+    :deletions: 199
+    :commits: 2
+  voxpupuli/puppet-staging:
+    :additions: 463
+    :deletions: 357
+    :commits: 8
+  voxpupuli/puppet-nodejs:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+  voxpupuli/puppet-hiera:
+    :additions: 627
+    :deletions: 34
+    :commits: 2
+  voxpupuli/puppet-zabbix:
+    :additions: 2071
+    :deletions: 1670
+    :commits: 8
+  voxpupuli/puppet-extlib:
+    :additions: 6
+    :deletions: 2
+    :commits: 2
+  voxpupuli/puppet-archive:
+    :additions: 11
+    :deletions: 5
+    :commits: 7
+  voxpupuli/puppet-unattended_upgrades:
+    :additions: 59
+    :deletions: 50
+    :commits: 2
+  voxpupuli/puppet-community_kickstarts:
+    :additions: 1591
+    :deletions: 185
+    :commits: 16
+robertstarmer:
+  voxpupuli/puppet-network:
+    :additions: 10
+    :deletions: 0
+    :commits: 3
+jordiclariana:
+  voxpupuli/puppet-network:
+    :additions: 4
+    :deletions: 4
+    :commits: 3
+ffrank:
+  voxpupuli/puppet-network:
+    :additions: 109
+    :deletions: 21
+    :commits: 3
+  voxpupuli/puppet-download_file:
+    :additions: 103
+    :deletions: 43
+    :commits: 5
+ericsakowski:
+  voxpupuli/puppet-network:
+    :additions: 238
+    :deletions: 4
+    :commits: 3
+vide:
+  voxpupuli/puppet-network:
+    :additions: 210
+    :deletions: 121
+    :commits: 4
+  voxpupuli/puppet-zabbix:
+    :additions: 81
+    :deletions: 0
+    :commits: 1
+vholer:
+  voxpupuli/puppet-network:
+    :additions: 180
+    :deletions: 107
+    :commits: 8
+  voxpupuli/puppet-hiera:
+    :additions: 12
+    :deletions: 4
+    :commits: 2
+rski:
+  voxpupuli/puppet-network:
+    :additions: 978
+    :deletions: 1003
+    :commits: 11
+Cinderhaze:
+  voxpupuli/puppet-staging:
+    :additions: 46
+    :deletions: 5
+    :commits: 1
+  voxpupuli/puppet-jira:
+    :additions: 4
+    :deletions: 1
+    :commits: 1
+ojacobson:
+  voxpupuli/puppet-staging:
+    :additions: 10
+    :deletions: 8
+    :commits: 1
+justinclayton:
+  voxpupuli/puppet-staging:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+vchepkov:
+  voxpupuli/puppet-staging:
+    :additions: 4
+    :deletions: 0
+    :commits: 1
+  voxpupuli/puppet-hiera:
+    :additions: 38
+    :deletions: 20
+    :commits: 4
+  voxpupuli/puppet-collectd:
+    :additions: 1
+    :deletions: 2
+    :commits: 1
+kgeis:
+  voxpupuli/puppet-staging:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+klynton:
+  voxpupuli/puppet-staging:
+    :additions: 4
+    :deletions: 2
+    :commits: 1
+bogdando:
+  voxpupuli/puppet-staging:
+    :additions: 9
+    :deletions: 1
+    :commits: 1
+  voxpupuli/puppet-corosync:
+    :additions: 145
+    :deletions: 10
+    :commits: 4
+samuelson:
+  voxpupuli/puppet-staging:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+  voxpupuli/puppet-minecraft:
+    :additions: 17
+    :deletions: 17
+    :commits: 1
+adamjk-dev:
+  voxpupuli/puppet-staging:
+    :additions: 20
+    :deletions: 0
+    :commits: 2
+haraldsk:
+  voxpupuli/puppet-staging:
+    :additions: 10
+    :deletions: 3
+    :commits: 2
+  voxpupuli/puppet-corosync:
+    :additions: 187
+    :deletions: 3
+    :commits: 4
+aswen:
+  voxpupuli/puppet-staging:
+    :additions: 53
+    :deletions: 2
+    :commits: 2
+epelletier:
+  voxpupuli/puppet-staging:
+    :additions: 8
+    :deletions: 1
+    :commits: 2
+gizero:
+  voxpupuli/puppet-staging:
+    :additions: 17
+    :deletions: 2
+    :commits: 2
+mkrakowitzer:
+  voxpupuli/puppet-staging:
+    :additions: 345
+    :deletions: 61
+    :commits: 2
+  voxpupuli/puppet-corosync:
+    :additions: 172
+    :deletions: 3
+    :commits: 4
+  voxpupuli/puppet-jira:
+    :additions: 2991
+    :deletions: 1145
+    :commits: 62
+  voxpupuli/puppet-stash:
+    :additions: 5295
+    :deletions: 3193
+    :commits: 95
+  voxpupuli/puppet-confluence:
+    :additions: 2597
+    :deletions: 838
+    :commits: 44
+  voxpupuli/puppet-zabbix:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+  voxpupuli/puppet-jenkins_job_builder:
+    :additions: 9
+    :deletions: 1
+    :commits: 1
+  voxpupuli/puppet-mysql_java_connector:
+    :additions: 1276
+    :deletions: 423
+    :commits: 16
+billietl:
+  voxpupuli/puppet-corosync:
+    :additions: 2
+    :deletions: 2
+    :commits: 1
+blook:
+  voxpupuli/puppet-corosync:
+    :additions: 15
+    :deletions: 8
+    :commits: 1
+javiplx:
+  voxpupuli/puppet-corosync:
+    :additions: 6
+    :deletions: 0
+    :commits: 1
+Slm0n87:
+  voxpupuli/puppet-corosync:
+    :additions: 32
+    :deletions: 2
+    :commits: 1
+NITEMAN:
+  voxpupuli/puppet-corosync:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+juniorsysadmin:
+  voxpupuli/puppet-corosync:
+    :additions: 1020
+    :deletions: 812
+    :commits: 1
+  voxpupuli/puppet-nodejs:
+    :additions: 5319
+    :deletions: 2290
+    :commits: 24
+  voxpupuli/puppet-alternatives:
+    :additions: 578
+    :deletions: 189
+    :commits: 1
+  voxpupuli/puppet-windows_firewall:
+    :additions: 510
+    :deletions: 565
+    :commits: 1
+  voxpupuli/puppet-windows_autoupdate:
+    :additions: 603
+    :deletions: 590
+    :commits: 3
+  voxpupuli/puppet-iis:
+    :additions: 1044
+    :deletions: 1076
+    :commits: 2
+  voxpupuli/puppet-windowsfeature:
+    :additions: 385
+    :deletions: 419
+    :commits: 1
+  voxpupuli/puppet-sslcert:
+    :additions: 393
+    :deletions: 432
+    :commits: 3
+  voxpupuli/puppet-windows_eventlog:
+    :additions: 338
+    :deletions: 377
+    :commits: 1
+  voxpupuli/puppet-windows_power:
+    :additions: 769
+    :deletions: 622
+    :commits: 1
+  voxpupuli/puppet-download_file:
+    :additions: 375
+    :deletions: 421
+    :commits: 3
+  voxpupuli/puppet-confluence:
+    :additions: 72
+    :deletions: 45
+    :commits: 3
+  voxpupuli/puppet-gluster:
+    :additions: 515
+    :deletions: 95
+    :commits: 1
+bechtoldt:
+  voxpupuli/puppet-corosync:
+    :additions: 7
+    :deletions: 1
+    :commits: 1
+zdenekjanda:
+  voxpupuli/puppet-corosync:
+    :additions: 74
+    :deletions: 12
+    :commits: 1
+  voxpupuli/puppet-collectd:
+    :additions: 33
+    :deletions: 6
+    :commits: 3
+rasschaert:
+  voxpupuli/puppet-corosync:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+kraeuschen:
+  voxpupuli/puppet-corosync:
+    :additions: 5
+    :deletions: 2
+    :commits: 1
+fghaas:
+  voxpupuli/puppet-corosync:
+    :additions: 2
+    :deletions: 4
+    :commits: 1
+Spechal:
+  voxpupuli/puppet-corosync:
+    :additions: 16
+    :deletions: 7
+    :commits: 1
+  voxpupuli/puppet-collectd:
+    :additions: 434
+    :deletions: 10
+    :commits: 10
+dmsimard:
+  voxpupuli/puppet-corosync:
+    :additions: 33
+    :deletions: 9
+    :commits: 1
+holser:
+  voxpupuli/puppet-corosync:
+    :additions: 2
+    :deletions: 3
+    :commits: 1
+kemra102:
+  voxpupuli/puppet-corosync:
+    :additions: 6
+    :deletions: 0
+    :commits: 1
+paramite:
+  voxpupuli/puppet-corosync:
+    :additions: 151
+    :deletions: 9
+    :commits: 1
+javierpena:
+  voxpupuli/puppet-corosync:
+    :additions: 795
+    :deletions: 0
+    :commits: 1
+jonhattan:
+  voxpupuli/puppet-corosync:
+    :additions: 106
+    :deletions: 7
+    :commits: 2
+kbon:
+  voxpupuli/puppet-corosync:
+    :additions: 91
+    :deletions: 40
+    :commits: 3
+tdb:
+  voxpupuli/puppet-corosync:
+    :additions: 99
+    :deletions: 58
+    :commits: 9
+sathieu:
+  voxpupuli/puppet-corosync:
+    :additions: 266
+    :deletions: 24
+    :commits: 9
+  voxpupuli/puppet-drbd:
+    :additions: 74
+    :deletions: 36
+    :commits: 8
+GiooDev:
+  voxpupuli/puppet-corosync:
+    :additions: 141
+    :deletions: 15
+    :commits: 11
+branan:
+  voxpupuli/puppet-corosync:
+    :additions: 421
+    :deletions: 88
+    :commits: 11
+  voxpupuli/puppet-nodejs:
+    :additions: 45
+    :deletions: 73
+    :commits: 3
+  voxpupuli/puppet-drbd:
+    :additions: 63
+    :deletions: 9
+    :commits: 6
+  voxpupuli/puppet-minecraft:
+    :additions: 367
+    :deletions: 22
+    :commits: 15
+daniel-pittman:
+  voxpupuli/puppet-nodejs:
+    :additions: 4
+    :deletions: 1
+    :commits: 1
+ColinHebert:
+  voxpupuli/puppet-nodejs:
+    :additions: 9
+    :deletions: 6
+    :commits: 1
+barthoda:
+  voxpupuli/puppet-nodejs:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+antoniojrod:
+  voxpupuli/puppet-nodejs:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+siwilkins:
+  voxpupuli/puppet-nodejs:
+    :additions: 8
+    :deletions: 12
+    :commits: 1
+stephenrjohnson:
+  voxpupuli/puppet-nodejs:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+fstr:
+  voxpupuli/puppet-nodejs:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+flantz:
+  voxpupuli/puppet-nodejs:
+    :additions: 19
+    :deletions: 7
+    :commits: 1
+alefteris:
+  voxpupuli/puppet-nodejs:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+lunaryorn:
+  voxpupuli/puppet-nodejs:
+    :additions: 6
+    :deletions: 6
+    :commits: 1
+tarjei:
+  voxpupuli/puppet-nodejs:
+    :additions: 9
+    :deletions: 0
+    :commits: 1
+pskrz:
+  voxpupuli/puppet-nodejs:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+orthographic-pedant:
+  voxpupuli/puppet-nodejs:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+jlambert121:
+  voxpupuli/puppet-nodejs:
+    :additions: 24
+    :deletions: 5
+    :commits: 1
+bfirsh:
+  voxpupuli/puppet-nodejs:
+    :additions: 23
+    :deletions: 3
+    :commits: 1
+mootpt:
+  voxpupuli/puppet-nodejs:
+    :additions: 16
+    :deletions: 8
+    :commits: 1
+jjbohn:
+  voxpupuli/puppet-nodejs:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+justin8:
+  voxpupuli/puppet-nodejs:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+davideme:
+  voxpupuli/puppet-nodejs:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+domcleal:
+  voxpupuli/puppet-nodejs:
+    :additions: 25
+    :deletions: 4
+    :commits: 1
+  voxpupuli/puppet-alternatives:
+    :additions: 20
+    :deletions: 3
+    :commits: 1
+  voxpupuli/puppet-blacksmith:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+  voxpupuli/puppet-lint-spaceship_operator_without_tag-check:
+    :additions: 2
+    :deletions: 2
+    :commits: 1
+paroga:
+  voxpupuli/puppet-nodejs:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+wenlock:
+  voxpupuli/puppet-nodejs:
+    :additions: 5
+    :deletions: 1
+    :commits: 1
+rangoy:
+  voxpupuli/puppet-nodejs:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+hairmare:
+  voxpupuli/puppet-nodejs:
+    :additions: 51
+    :deletions: 7
+    :commits: 1
+Zorbash:
+  voxpupuli/puppet-nodejs:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+skpy:
+  voxpupuli/puppet-nodejs:
+    :additions: 87
+    :deletions: 9
+    :commits: 1
+  voxpupuli/puppet-gluster:
+    :additions: 2770
+    :deletions: 810
+    :commits: 56
+jbondpdx:
+  voxpupuli/puppet-nodejs:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+Filirom1:
+  voxpupuli/puppet-nodejs:
+    :additions: 24
+    :deletions: 1
+    :commits: 1
+vpassapera:
+  voxpupuli/puppet-nodejs:
+    :additions: 4
+    :deletions: 2
+    :commits: 1
+atrepca:
+  voxpupuli/puppet-nodejs:
+    :additions: 18
+    :deletions: 9
+    :commits: 2
+patcon:
+  voxpupuli/puppet-nodejs:
+    :additions: 11
+    :deletions: 4
+    :commits: 2
+tapsboy:
+  voxpupuli/puppet-nodejs:
+    :additions: 7
+    :deletions: 4
+    :commits: 2
+exodusftw:
+  voxpupuli/puppet-nodejs:
+    :additions: 28
+    :deletions: 8
+    :commits: 2
+razorsedge:
+  voxpupuli/puppet-nodejs:
+    :additions: 37
+    :deletions: 16
+    :commits: 3
+  voxpupuli/puppet-hiera:
+    :additions: 122
+    :deletions: 10
+    :commits: 2
+tsde:
+  voxpupuli/puppet-nodejs:
+    :additions: 173
+    :deletions: 38
+    :commits: 3
+imriz:
+  voxpupuli/puppet-nodejs:
+    :additions: 46
+    :deletions: 35
+    :commits: 3
+webratz:
+  voxpupuli/puppet-nodejs:
+    :additions: 696
+    :deletions: 58
+    :commits: 5
+Sharpie:
+  voxpupuli/puppet-filemapper:
+    :additions: 72
+    :deletions: 13
+    :commits: 6
+  voxpupuli/puppet-hiera:
+    :additions: 15
+    :deletions: 6
+    :commits: 3
+trefzer:
+  voxpupuli/puppet-drbd:
+    :additions: 17
+    :deletions: 17
+    :commits: 1
+dguerri:
+  voxpupuli/puppet-drbd:
+    :additions: 4
+    :deletions: 1
+    :commits: 1
+jlcox1970:
+  voxpupuli/puppet-jira:
+    :additions: 7
+    :deletions: 14
+    :commits: 1
+  voxpupuli/puppet-puppetboard:
+    :additions: 16
+    :deletions: 0
+    :commits: 1
+yjpa7145:
+  voxpupuli/puppet-jira:
+    :additions: 2
+    :deletions: 2
+    :commits: 1
+jaxer:
+  voxpupuli/puppet-jira:
+    :additions: 2
+    :deletions: 2
+    :commits: 1
+AlexanderNZ:
+  voxpupuli/puppet-jira:
+    :additions: 3
+    :deletions: 9
+    :commits: 1
+LTangaF:
+  voxpupuli/puppet-jira:
+    :additions: 20
+    :deletions: 6
+    :commits: 1
+cgrandsjo:
+  voxpupuli/puppet-jira:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+grigarr:
+  voxpupuli/puppet-jira:
+    :additions: 17
+    :deletions: 3
+    :commits: 1
+disassembler:
+  voxpupuli/puppet-jira:
+    :additions: 2
+    :deletions: 1
+    :commits: 1
+andreyev:
+  voxpupuli/puppet-jira:
+    :additions: 0
+    :deletions: 1
+    :commits: 1
+ctoa:
+  voxpupuli/puppet-jira:
+    :additions: 7
+    :deletions: 7
+    :commits: 1
+peculater:
+  voxpupuli/puppet-jira:
+    :additions: 18
+    :deletions: 4
+    :commits: 1
+AZaugg:
+  voxpupuli/puppet-jira:
+    :additions: 19
+    :deletions: 4
+    :commits: 1
+ferencvarga:
+  voxpupuli/puppet-jira:
+    :additions: 18
+    :deletions: 3
+    :commits: 1
+jacobmw:
+  voxpupuli/puppet-jira:
+    :additions: 106
+    :deletions: 19
+    :commits: 1
+  voxpupuli/puppet-confluence:
+    :additions: 9
+    :deletions: 8
+    :commits: 1
+smithtrevor:
+  voxpupuli/puppet-jira:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+  voxpupuli/puppet-rundeck:
+    :additions: 417
+    :deletions: 438
+    :commits: 49
+aharden:
+  voxpupuli/puppet-jira:
+    :additions: 13
+    :deletions: 1
+    :commits: 1
+adamcrews:
+  voxpupuli/puppet-jira:
+    :additions: 9
+    :deletions: 8
+    :commits: 2
+  voxpupuli/puppet-stash:
+    :additions: 4
+    :deletions: 2
+    :commits: 1
+  voxpupuli/puppet-nsclient:
+    :additions: 15
+    :deletions: 8
+    :commits: 1
+  voxpupuli/puppet-archive:
+    :additions: 2
+    :deletions: 2
+    :commits: 2
+oysteing:
+  voxpupuli/puppet-jira:
+    :additions: 32
+    :deletions: 1
+    :commits: 2
+gabrielbull:
+  voxpupuli/puppet-jira:
+    :additions: 10
+    :deletions: 3
+    :commits: 2
+eshamow:
+  voxpupuli/puppet-jira:
+    :additions: 2
+    :deletions: 2
+    :commits: 2
+  voxpupuli/puppet-puppetboard:
+    :additions: 6
+    :deletions: 1
+    :commits: 1
+paulgeringer:
+  voxpupuli/puppet-jira:
+    :additions: 38
+    :deletions: 3
+    :commits: 3
+  voxpupuli/puppet-mysql_java_connector:
+    :additions: 2
+    :deletions: 2
+    :commits: 1
+bramwelt:
+  voxpupuli/puppet-jira:
+    :additions: 128
+    :deletions: 11
+    :commits: 3
+dougneal:
+  voxpupuli/puppet-jira:
+    :additions: 22
+    :deletions: 1
+    :commits: 4
+smsearcy:
+  voxpupuli/puppet-jira:
+    :additions: 56
+    :deletions: 10
+    :commits: 5
+MasonM:
+  voxpupuli/puppet-jira:
+    :additions: 76
+    :deletions: 37
+    :commits: 5
+ronaldvanrij:
+  voxpupuli/puppet-jira:
+    :additions: 87
+    :deletions: 12
+    :commits: 6
+poikilotherm:
+  voxpupuli/puppet-jira:
+    :additions: 216
+    :deletions: 15
+    :commits: 7
+brycejohnson:
+  voxpupuli/puppet-jira:
+    :additions: 858
+    :deletions: 79
+    :commits: 11
+spuder:
+  voxpupuli/puppet-hiera:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+dhgwilliam:
+  voxpupuli/puppet-hiera:
+    :additions: 2
+    :deletions: 1
+    :commits: 1
+danieldreier:
+  voxpupuli/puppet-hiera:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+  voxpupuli/puppet-kafka:
+    :additions: 5
+    :deletions: 1
+    :commits: 1
+terrimonster:
+  voxpupuli/puppet-hiera:
+    :additions: 93
+    :deletions: 9
+    :commits: 1
+tuxmea:
+  voxpupuli/puppet-hiera:
+    :additions: 4
+    :deletions: 4
+    :commits: 1
+  voxpupuli/puppet-alternatives:
+    :additions: 59
+    :deletions: 2
+    :commits: 2
+  voxpupuli/puppet-lint-resource_reference_syntax:
+    :additions: 385
+    :deletions: 50
+    :commits: 13
+  voxpupuli/puppet-lint-reference_on_declaration_outside_of_class-check:
+    :additions: 557
+    :deletions: 5
+    :commits: 5
+acjohnson:
+  voxpupuli/puppet-hiera:
+    :additions: 11
+    :deletions: 1
+    :commits: 1
+tosbourn:
+  voxpupuli/puppet-hiera:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+matthm:
+  voxpupuli/puppet-hiera:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+nbetm:
+  voxpupuli/puppet-hiera:
+    :additions: 8
+    :deletions: 4
+    :commits: 1
+fnaard:
+  voxpupuli/puppet-hiera:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+benjamink:
+  voxpupuli/puppet-hiera:
+    :additions: 6
+    :deletions: 1
+    :commits: 2
+awaxa:
+  voxpupuli/puppet-hiera:
+    :additions: 21
+    :deletions: 11
+    :commits: 2
+pjfoley:
+  voxpupuli/puppet-hiera:
+    :additions: 67
+    :deletions: 15
+    :commits: 3
+tampakrap:
+  voxpupuli/puppet-hiera:
+    :additions: 17
+    :deletions: 14
+    :commits: 3
+elyscape:
+  voxpupuli/puppet-hiera:
+    :additions: 132
+    :deletions: 150
+    :commits: 3
+emning:
+  voxpupuli/puppet-hiera:
+    :additions: 20
+    :deletions: 9
+    :commits: 4
+dgoodlad:
+  voxpupuli/puppet-hiera:
+    :additions: 18
+    :deletions: 2
+    :commits: 4
+smbambling:
+  voxpupuli/puppet-hiera:
+    :additions: 219
+    :deletions: 45
+    :commits: 5
+  voxpupuli/puppet-archive:
+    :additions: 6
+    :deletions: 1
+    :commits: 2
+mkissam:
+  voxpupuli/puppet-git_resource:
+    :additions: 32
+    :deletions: 6
+    :commits: 7
+mmoll:
+  voxpupuli/puppet-alternatives:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+  voxpupuli/puppet-collectd:
+    :additions: 377
+    :deletions: 73
+    :commits: 17
+stkerr:
+  voxpupuli/puppet-alternatives:
+    :additions: 12
+    :deletions: 0
+    :commits: 1
+rswarts:
+  voxpupuli/puppet-alternatives:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+diranged:
+  voxpupuli/puppet-alternatives:
+    :additions: 5
+    :deletions: 1
+    :commits: 1
+jsosic:
+  voxpupuli/puppet-alternatives:
+    :additions: 177
+    :deletions: 32
+    :commits: 10
+justinstoller:
+  voxpupuli/puppet-blacksmith:
+    :additions: 93
+    :deletions: 26
+    :commits: 1
+jamtur01:
+  voxpupuli/puppet-blacksmith:
+    :additions: 5
+    :deletions: 4
+    :commits: 1
+jlyheden:
+  voxpupuli/puppet-blacksmith:
+    :additions: 441
+    :deletions: 2
+    :commits: 2
+deric:
+  voxpupuli/puppet-blacksmith:
+    :additions: 47
+    :deletions: 16
+    :commits: 5
+  voxpupuli/puppet-collectd:
+    :additions: 1085
+    :deletions: 263
+    :commits: 11
+TimPollard:
+  voxpupuli/puppet-collectd:
+    :additions: 26
+    :deletions: 0
+    :commits: 1
+blewa:
+  voxpupuli/puppet-collectd:
+    :additions: 2
+    :deletions: 1
+    :commits: 1
+daniellawrence:
+  voxpupuli/puppet-collectd:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+Lavaburn:
+  voxpupuli/puppet-collectd:
+    :additions: 3
+    :deletions: 3
+    :commits: 1
+robyoung:
+  voxpupuli/puppet-collectd:
+    :additions: 9
+    :deletions: 0
+    :commits: 1
+torrancew:
+  voxpupuli/puppet-collectd:
+    :additions: 35
+    :deletions: 1
+    :commits: 1
+adrianlzt:
+  voxpupuli/puppet-collectd:
+    :additions: 59
+    :deletions: 0
+    :commits: 1
+relsqui:
+  voxpupuli/puppet-collectd:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+smokey42:
+  voxpupuli/puppet-collectd:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+punycode:
+  voxpupuli/puppet-collectd:
+    :additions: 11
+    :deletions: 7
+    :commits: 1
+bnied:
+  voxpupuli/puppet-collectd:
+    :additions: 88
+    :deletions: 0
+    :commits: 1
+cameronbwhite:
+  voxpupuli/puppet-collectd:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+paul91:
+  voxpupuli/puppet-collectd:
+    :additions: 98
+    :deletions: 0
+    :commits: 1
+ustuehler:
+  voxpupuli/puppet-collectd:
+    :additions: 107
+    :deletions: 0
+    :commits: 1
+johanek:
+  voxpupuli/puppet-collectd:
+    :additions: 7
+    :deletions: 0
+    :commits: 1
+cfeskens:
+  voxpupuli/puppet-collectd:
+    :additions: 41
+    :deletions: 0
+    :commits: 1
+jcbashdown:
+  voxpupuli/puppet-collectd:
+    :additions: 92
+    :deletions: 40
+    :commits: 1
+breml:
+  voxpupuli/puppet-collectd:
+    :additions: 1
+    :deletions: 0
+    :commits: 1
+jkinred:
+  voxpupuli/puppet-collectd:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+bodgit:
+  voxpupuli/puppet-collectd:
+    :additions: 1
+    :deletions: 0
+    :commits: 1
+brandonweeks:
+  voxpupuli/puppet-collectd:
+    :additions: 9
+    :deletions: 16
+    :commits: 1
+  voxpupuli/puppet-puppetboard:
+    :additions: 19
+    :deletions: 1
+    :commits: 2
+gilbrechbuhler:
+  voxpupuli/puppet-collectd:
+    :additions: 2
+    :deletions: 1
+    :commits: 1
+elemoine:
+  voxpupuli/puppet-collectd:
+    :additions: 27
+    :deletions: 0
+    :commits: 1
+fibbers:
+  voxpupuli/puppet-collectd:
+    :additions: 1
+    :deletions: 0
+    :commits: 1
+czhujer:
+  voxpupuli/puppet-collectd:
+    :additions: 6
+    :deletions: 0
+    :commits: 1
+azhurbilo:
+  voxpupuli/puppet-collectd:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+ibrezac:
+  voxpupuli/puppet-collectd:
+    :additions: 11
+    :deletions: 2
+    :commits: 1
+jonmccreery:
+  voxpupuli/puppet-collectd:
+    :additions: 298
+    :deletions: 14
+    :commits: 1
+sharlander:
+  voxpupuli/puppet-collectd:
+    :additions: 143
+    :deletions: 0
+    :commits: 1
+hdoedens:
+  voxpupuli/puppet-collectd:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+blacktoko:
+  voxpupuli/puppet-collectd:
+    :additions: 0
+    :deletions: 4
+    :commits: 1
+rjw1:
+  voxpupuli/puppet-collectd:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+dedded:
+  voxpupuli/puppet-collectd:
+    :additions: 6
+    :deletions: 0
+    :commits: 1
+quiffman:
+  voxpupuli/puppet-collectd:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+danzilio:
+  voxpupuli/puppet-collectd:
+    :additions: 3
+    :deletions: 6
+    :commits: 1
+  voxpupuli/puppet-lint-classes_and_types_beginning_with_digits-check:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+jpds:
+  voxpupuli/puppet-collectd:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+guerremdq:
+  voxpupuli/puppet-collectd:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+shanemadden:
+  voxpupuli/puppet-collectd:
+    :additions: 2
+    :deletions: 2
+    :commits: 1
+ripienaar:
+  voxpupuli/puppet-collectd:
+    :additions: 5
+    :deletions: 1
+    :commits: 1
+danielspang:
+  voxpupuli/puppet-collectd:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+TheMeier:
+  voxpupuli/puppet-collectd:
+    :additions: 2
+    :deletions: 2
+    :commits: 1
+dene14:
+  voxpupuli/puppet-collectd:
+    :additions: 16
+    :deletions: 0
+    :commits: 1
+mmogylenko:
+  voxpupuli/puppet-collectd:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+bdellegrazie:
+  voxpupuli/puppet-collectd:
+    :additions: 149
+    :deletions: 49
+    :commits: 2
+Project0:
+  voxpupuli/puppet-collectd:
+    :additions: 892
+    :deletions: 0
+    :commits: 2
+kurpipio:
+  voxpupuli/puppet-collectd:
+    :additions: 210
+    :deletions: 2
+    :commits: 2
+zoni:
+  voxpupuli/puppet-collectd:
+    :additions: 54
+    :deletions: 0
+    :commits: 2
+cstroe:
+  voxpupuli/puppet-collectd:
+    :additions: 309
+    :deletions: 309
+    :commits: 2
+jovandeginste:
+  voxpupuli/puppet-collectd:
+    :additions: 158
+    :deletions: 83
+    :commits: 2
+radford:
+  voxpupuli/puppet-collectd:
+    :additions: 9
+    :deletions: 1
+    :commits: 2
+thejandroman:
+  voxpupuli/puppet-collectd:
+    :additions: 31
+    :deletions: 0
+    :commits: 2
+waldosCH:
+  voxpupuli/puppet-collectd:
+    :additions: 63
+    :deletions: 0
+    :commits: 2
+bdossantos:
+  voxpupuli/puppet-collectd:
+    :additions: 17
+    :deletions: 7
+    :commits: 3
+jarib:
+  voxpupuli/puppet-collectd:
+    :additions: 16
+    :deletions: 12
+    :commits: 3
+chrislovecnm:
+  voxpupuli/puppet-collectd:
+    :additions: 14
+    :deletions: 3
+    :commits: 3
+bogus-py:
+  voxpupuli/puppet-collectd:
+    :additions: 295
+    :deletions: 8
+    :commits: 3
+jameseck:
+  voxpupuli/puppet-collectd:
+    :additions: 16
+    :deletions: 8
+    :commits: 3
+tbielawa:
+  voxpupuli/puppet-collectd:
+    :additions: 210
+    :deletions: 10
+    :commits: 3
+kimor79:
+  voxpupuli/puppet-collectd:
+    :additions: 118
+    :deletions: 7
+    :commits: 4
+mothbe:
+  voxpupuli/puppet-collectd:
+    :additions: 60
+    :deletions: 7
+    :commits: 4
+mattrco:
+  voxpupuli/puppet-collectd:
+    :additions: 51
+    :deletions: 2
+    :commits: 4
+simonpasquier:
+  voxpupuli/puppet-collectd:
+    :additions: 97
+    :deletions: 18
+    :commits: 4
+piotr1212:
+  voxpupuli/puppet-collectd:
+    :additions: 108
+    :deletions: 15
+    :commits: 4
+ChrisHeerschap:
+  voxpupuli/puppet-collectd:
+    :additions: 25
+    :deletions: 25
+    :commits: 4
+jonnangle:
+  voxpupuli/puppet-collectd:
+    :additions: 67
+    :deletions: 6
+    :commits: 4
+sp-joseluis-ledesma:
+  voxpupuli/puppet-collectd:
+    :additions: 35
+    :deletions: 3
+    :commits: 4
+arioch:
+  voxpupuli/puppet-collectd:
+    :additions: 11
+    :deletions: 20
+    :commits: 5
+t-8ch:
+  voxpupuli/puppet-collectd:
+    :additions: 193
+    :deletions: 17
+    :commits: 6
+smoeding:
+  voxpupuli/puppet-collectd:
+    :additions: 211
+    :deletions: 47
+    :commits: 6
+ttarczynski:
+  voxpupuli/puppet-collectd:
+    :additions: 154
+    :deletions: 20
+    :commits: 6
+x-way:
+  voxpupuli/puppet-collectd:
+    :additions: 230
+    :deletions: 14
+    :commits: 6
+ortegaga:
+  voxpupuli/puppet-collectd:
+    :additions: 266
+    :deletions: 2
+    :commits: 6
+matejzero:
+  voxpupuli/puppet-collectd:
+    :additions: 51
+    :deletions: 13
+    :commits: 7
+tombooth:
+  voxpupuli/puppet-collectd:
+    :additions: 166
+    :deletions: 7
+    :commits: 7
+doismellburning:
+  voxpupuli/puppet-collectd:
+    :additions: 242
+    :deletions: 13
+    :commits: 8
+archii:
+  voxpupuli/puppet-collectd:
+    :additions: 87
+    :deletions: 8
+    :commits: 9
+bzed:
+  voxpupuli/puppet-collectd:
+    :additions: 222
+    :deletions: 75
+    :commits: 11
+kitchen:
+  voxpupuli/puppet-collectd:
+    :additions: 877
+    :deletions: 88
+    :commits: 19
+sijis:
+  voxpupuli/puppet-collectd:
+    :additions: 118
+    :deletions: 2
+    :commits: 19
+tripledes:
+  voxpupuli/puppet-collectd:
+    :additions: 946
+    :deletions: 93
+    :commits: 25
+jpoittevin:
+  voxpupuli/puppet-collectd:
+    :additions: 815
+    :deletions: 1038
+    :commits: 54
+liamjbennett:
+  voxpupuli/puppet-windows_firewall:
+    :additions: 406
+    :deletions: 73
+    :commits: 1
+  voxpupuli/puppet-dotnet:
+    :additions: 1123
+    :deletions: 888
+    :commits: 3
+  voxpupuli/puppet-visualstudio:
+    :additions: 428
+    :deletions: 254
+    :commits: 1
+  voxpupuli/puppet-msoffice:
+    :additions: 1258
+    :deletions: 751
+    :commits: 7
+  voxpupuli/puppet-windows_autoupdate:
+    :additions: 432
+    :deletions: 140
+    :commits: 4
+  voxpupuli/puppet-iis:
+    :additions: 1137
+    :deletions: 554
+    :commits: 19
+  voxpupuli/puppet-windowsfeature:
+    :additions: 1214
+    :deletions: 508
+    :commits: 53
+  voxpupuli/puppet-sslcert:
+    :additions: 824
+    :deletions: 258
+    :commits: 14
+  voxpupuli/puppet-windows_eventlog:
+    :additions: 747
+    :deletions: 441
+    :commits: 8
+  voxpupuli/puppet-windows_power:
+    :additions: 408
+    :deletions: 264
+    :commits: 1
+  voxpupuli/puppet-download_file:
+    :additions: 1159
+    :deletions: 562
+    :commits: 54
+  voxpupuli/puppet-nsclient:
+    :additions: 847
+    :deletions: 266
+    :commits: 18
+  voxpupuli/puppet-rundeck:
+    :additions: 8132
+    :deletions: 3186
+    :commits: 78
+  voxpupuli/puppet-kafka:
+    :additions: 4358
+    :deletions: 2193
+    :commits: 70
+  voxpupuli/puppet-jenkins_job_builder:
+    :additions: 1706
+    :deletions: 459
+    :commits: 21
+  voxpupuli/puppet-graphite_powershell:
+    :additions: 1354
+    :deletions: 408
+    :commits: 15
+  voxpupuli/puppet-lint-absolute_classname-check:
+    :additions: 46
+    :deletions: 6
+    :commits: 1
+invliD:
+  voxpupuli/puppet-windows_firewall:
+    :additions: 62
+    :deletions: 10
+    :commits: 1
+gibbsoft:
+  voxpupuli/puppet-windows_firewall:
+    :additions: 41
+    :deletions: 11
+    :commits: 1
+dgoetz:
+  voxpupuli/puppet-windows_firewall:
+    :additions: 10
+    :deletions: 3
+    :commits: 1
+nicovs:
+  voxpupuli/puppet-windows_firewall:
+    :additions: 2
+    :deletions: 2
+    :commits: 1
+davidnewton:
+  voxpupuli/puppet-windows_firewall:
+    :additions: 6
+    :deletions: 4
+    :commits: 2
+MajorManUMan:
+  voxpupuli/puppet-windows_firewall:
+    :additions: 7
+    :deletions: 1
+    :commits: 2
+supercow:
+  voxpupuli/puppet-windows_firewall:
+    :additions: 8
+    :deletions: 7
+    :commits: 2
+acaire:
+  voxpupuli/puppet-windows_firewall:
+    :additions: 294
+    :deletions: 142
+    :commits: 12
+DracoBlue:
+  voxpupuli/puppet-dotnet:
+    :additions: 3
+    :deletions: 3
+    :commits: 1
+gleg:
+  voxpupuli/puppet-dotnet:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+ringods:
+  voxpupuli/puppet-dotnet:
+    :additions: 16
+    :deletions: 10
+    :commits: 3
+regnarg:
+  voxpupuli/puppet-msoffice:
+    :additions: 2
+    :deletions: 2
+    :commits: 1
+kupuguy:
+  voxpupuli/puppet-windows_autoupdate:
+    :additions: 14
+    :deletions: 14
+    :commits: 2
+brushwood24:
+  voxpupuli/puppet-iis:
+    :additions: 28
+    :deletions: 1
+    :commits: 1
+juaningan:
+  voxpupuli/puppet-iis:
+    :additions: 22
+    :deletions: 22
+    :commits: 1
+arcaartem:
+  voxpupuli/puppet-iis:
+    :additions: 3
+    :deletions: 3
+    :commits: 1
+lquantz:
+  voxpupuli/puppet-iis:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+mansong1:
+  voxpupuli/puppet-iis:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+rismoney:
+  voxpupuli/puppet-iis:
+    :additions: 1
+    :deletions: 2
+    :commits: 1
+  voxpupuli/puppet-windows_eventlog:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+ninja-2:
+  voxpupuli/puppet-iis:
+    :additions: 29
+    :deletions: 21
+    :commits: 1
+magmax:
+  voxpupuli/puppet-iis:
+    :additions: 6
+    :deletions: 4
+    :commits: 1
+hathoward:
+  voxpupuli/puppet-iis:
+    :additions: 57
+    :deletions: 32
+    :commits: 2
+gigadafud:
+  voxpupuli/puppet-iis:
+    :additions: 16
+    :deletions: 4
+    :commits: 2
+calebfornari:
+  voxpupuli/puppet-iis:
+    :additions: 7
+    :deletions: 7
+    :commits: 2
+wmuizelaar:
+  voxpupuli/puppet-iis:
+    :additions: 3
+    :deletions: 3
+    :commits: 3
+adastidar:
+  voxpupuli/puppet-iis:
+    :additions: 40
+    :deletions: 21
+    :commits: 4
+WhatsARanjit:
+  voxpupuli/puppet-iis:
+    :additions: 1241
+    :deletions: 209
+    :commits: 6
+lcoulson:
+  voxpupuli/puppet-iis:
+    :additions: 1220
+    :deletions: 117
+    :commits: 8
+cyberious:
+  voxpupuli/puppet-iis:
+    :additions: 225
+    :deletions: 1360
+    :commits: 11
+  voxpupuli/puppet-windowsfeature:
+    :additions: 12
+    :deletions: 2
+    :commits: 2
+  voxpupuli/puppet-download_file:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+bcatlin:
+  voxpupuli/puppet-iis:
+    :additions: 445
+    :deletions: 134
+    :commits: 18
+  voxpupuli/puppet-download_file:
+    :additions: 64
+    :deletions: 14
+    :commits: 4
+stack72:
+  voxpupuli/puppet-iis:
+    :additions: 456
+    :deletions: 59
+    :commits: 29
+  voxpupuli/puppet-windowsfeature:
+    :additions: 242
+    :deletions: 30
+    :commits: 16
+  voxpupuli/puppet-sslcert:
+    :additions: 383
+    :deletions: 183
+    :commits: 33
+  voxpupuli/puppet-puppetboard:
+    :additions: 18
+    :deletions: 1
+    :commits: 1
+  voxpupuli/puppet-download_file:
+    :additions: 382
+    :deletions: 81
+    :commits: 24
+  voxpupuli/puppet-stash:
+    :additions: 22
+    :deletions: 6
+    :commits: 1
+  voxpupuli/puppet-nsclient:
+    :additions: 705
+    :deletions: 236
+    :commits: 27
+  voxpupuli/puppet-rundeck:
+    :additions: 2
+    :deletions: 1
+    :commits: 2
+  voxpupuli/puppet-kafka:
+    :additions: 7
+    :deletions: 4
+    :commits: 5
+  voxpupuli/puppet-jenkins_job_builder:
+    :additions: 4
+    :deletions: 4
+    :commits: 2
+  voxpupuli/puppet-graphite_powershell:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+amwilson:
+  voxpupuli/puppet-iis:
+    :additions: 1129
+    :deletions: 554
+    :commits: 59
+  voxpupuli/puppet-sslcert:
+    :additions: 182
+    :deletions: 19
+    :commits: 8
+  voxpupuli/puppet-download_file:
+    :additions: 2
+    :deletions: 3
+    :commits: 3
+  voxpupuli/puppet-nsclient:
+    :additions: 15
+    :deletions: 9
+    :commits: 4
+binford2k:
+  voxpupuli/puppet-windowsfeature:
+    :additions: 11
+    :deletions: 5
+    :commits: 1
+matthewrstone:
+  voxpupuli/puppet-windowsfeature:
+    :additions: 10939
+    :deletions: 303
+    :commits: 1
+tracyde:
+  voxpupuli/puppet-windowsfeature:
+    :additions: 4
+    :deletions: 2
+    :commits: 1
+x89:
+  voxpupuli/puppet-windowsfeature:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+shoekstra:
+  voxpupuli/puppet-windowsfeature:
+    :additions: 369
+    :deletions: 233
+    :commits: 9
+Mharlin:
+  voxpupuli/puppet-sslcert:
+    :additions: 2
+    :deletions: 2
+    :commits: 1
+croddy:
+  voxpupuli/puppet-windows_eventlog:
+    :additions: 4
+    :deletions: 4
+    :commits: 1
+dskad:
+  voxpupuli/puppet-puppetboard:
+    :additions: 1
+    :deletions: 0
+    :commits: 1
+juliushaertl:
+  voxpupuli/puppet-puppetboard:
+    :additions: 53
+    :deletions: 17
+    :commits: 1
+dalesit:
+  voxpupuli/puppet-puppetboard:
+    :additions: 5
+    :deletions: 0
+    :commits: 1
+ogdensan:
+  voxpupuli/puppet-puppetboard:
+    :additions: 2
+    :deletions: 2
+    :commits: 1
+badgerben:
+  voxpupuli/puppet-puppetboard:
+    :additions: 0
+    :deletions: 5
+    :commits: 1
+johnzimm:
+  voxpupuli/puppet-puppetboard:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+Zophar78:
+  voxpupuli/puppet-puppetboard:
+    :additions: 6
+    :deletions: 6
+    :commits: 1
+  voxpupuli/puppet-stash:
+    :additions: 5
+    :deletions: 3
+    :commits: 2
+mkinney:
+  voxpupuli/puppet-puppetboard:
+    :additions: 16
+    :deletions: 15
+    :commits: 1
+tombuildsstuff:
+  voxpupuli/puppet-puppetboard:
+    :additions: 7
+    :deletions: 0
+    :commits: 1
+pavel-drobushevich:
+  voxpupuli/puppet-puppetboard:
+    :additions: 1
+    :deletions: 0
+    :commits: 1
+tomtheun:
+  voxpupuli/puppet-puppetboard:
+    :additions: 28
+    :deletions: 20
+    :commits: 1
+krionux:
+  voxpupuli/puppet-puppetboard:
+    :additions: 5
+    :deletions: 4
+    :commits: 1
+nickchappell:
+  voxpupuli/puppet-puppetboard:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+Paulche:
+  voxpupuli/puppet-puppetboard:
+    :additions: 3
+    :deletions: 3
+    :commits: 1
+sigmunau:
+  voxpupuli/puppet-puppetboard:
+    :additions: 3
+    :deletions: 0
+    :commits: 1
+tommodore:
+  voxpupuli/puppet-puppetboard:
+    :additions: 3
+    :deletions: 3
+    :commits: 1
+mcallaway:
+  voxpupuli/puppet-puppetboard:
+    :additions: 0
+    :deletions: 8
+    :commits: 1
+fpletz:
+  voxpupuli/puppet-puppetboard:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+dbogen:
+  voxpupuli/puppet-puppetboard:
+    :additions: 8
+    :deletions: 2
+    :commits: 1
+rmnwolf:
+  voxpupuli/puppet-puppetboard:
+    :additions: 116
+    :deletions: 74
+    :commits: 2
+bderickson:
+  voxpupuli/puppet-puppetboard:
+    :additions: 8
+    :deletions: 2
+    :commits: 2
+bahner:
+  voxpupuli/puppet-puppetboard:
+    :additions: 15
+    :deletions: 2
+    :commits: 2
+jtopjian:
+  voxpupuli/puppet-puppetboard:
+    :additions: 181
+    :deletions: 132
+    :commits: 3
+robinbowes:
+  voxpupuli/puppet-puppetboard:
+    :additions: 85
+    :deletions: 35
+    :commits: 6
+  voxpupuli/puppet-archive:
+    :additions: 53
+    :deletions: 1
+    :commits: 4
+noma4i:
+  voxpupuli/puppet-download_file:
+    :additions: 14
+    :deletions: 14
+    :commits: 1
+garethr:
+  voxpupuli/puppet-download_file:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+ElvenSpellmaker:
+  voxpupuli/puppet-download_file:
+    :additions: 0
+    :deletions: 13
+    :commits: 1
+DavidJFelix:
+  voxpupuli/puppet-download_file:
+    :additions: 254
+    :deletions: 52
+    :commits: 2
+anovitskiy:
+  voxpupuli/puppet-download_file:
+    :additions: 17
+    :deletions: 6
+    :commits: 3
+spacex:
+  voxpupuli/puppet-minecraft:
+    :additions: 2
+    :deletions: 1
+    :commits: 1
+andschwa:
+  voxpupuli/puppet-minecraft:
+    :additions: 1507
+    :deletions: 1080
+    :commits: 62
+  voxpupuli/puppet-ghost:
+    :additions: 2281
+    :deletions: 1127
+    :commits: 66
+  voxpupuli/puppet-mumble:
+    :additions: 731
+    :deletions: 270
+    :commits: 17
+andrew-timmes:
+  voxpupuli/puppet-ghost:
+    :additions: 65
+    :deletions: 29
+    :commits: 2
+webberist:
+  voxpupuli/puppet-mumble:
+    :additions: 4
+    :deletions: 2
+    :commits: 1
+x3dfxjunkie:
+  voxpupuli/puppet-mumble:
+    :additions: 7
+    :deletions: 5
+    :commits: 1
+dvorak:
+  voxpupuli/puppet-gerrit:
+    :additions: 52
+    :deletions: 18
+    :commits: 4
+  voxpupuli/puppet-healthcheck:
+    :additions: 33
+    :deletions: 7
+    :commits: 3
+Spredzy:
+  voxpupuli/puppet-gerrit:
+    :additions: 213
+    :deletions: 35
+    :commits: 8
+  voxpupuli/puppet-jenkins_job_builder:
+    :additions: 15
+    :deletions: 7
+    :commits: 3
+  voxpupuli/puppet-healthcheck:
+    :additions: 418
+    :deletions: 0
+    :commits: 2
+tfhartmann:
+  voxpupuli/puppet-stash:
+    :additions: 170
+    :deletions: 1
+    :commits: 1
+mgoodness:
+  voxpupuli/puppet-stash:
+    :additions: 3
+    :deletions: 13
+    :commits: 2
+GeoffWilliams:
+  voxpupuli/puppet-stash:
+    :additions: 38
+    :deletions: 2
+    :commits: 3
+Z3r0Sum:
+  voxpupuli/puppet-stash:
+    :additions: 255
+    :deletions: 171
+    :commits: 5
+dudemcbacon:
+  voxpupuli/puppet-confluence:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+jasonhancock:
+  voxpupuli/puppet-confluence:
+    :additions: 13
+    :deletions: 5
+    :commits: 2
+gerhardsam:
+  voxpupuli/puppet-confluence:
+    :additions: 115
+    :deletions: 98
+    :commits: 2
+joshbeard:
+  voxpupuli/puppet-confluence:
+    :additions: 34
+    :deletions: 22
+    :commits: 3
+haf:
+  voxpupuli/puppet-nsclient:
+    :additions: 3
+    :deletions: 3
+    :commits: 3
+gattebury:
+  voxpupuli/puppet-zabbix:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+sbaryakov:
+  voxpupuli/puppet-zabbix:
+    :additions: 4
+    :deletions: 4
+    :commits: 1
+furhouse:
+  voxpupuli/puppet-zabbix:
+    :additions: 1
+    :deletions: 0
+    :commits: 1
+damoxc:
+  voxpupuli/puppet-zabbix:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+  voxpupuli/puppet-archive:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+exptom:
+  voxpupuli/puppet-zabbix:
+    :additions: 3
+    :deletions: 3
+    :commits: 1
+floriankoch:
+  voxpupuli/puppet-zabbix:
+    :additions: 6
+    :deletions: 4
+    :commits: 1
+actionjack:
+  voxpupuli/puppet-zabbix:
+    :additions: 74
+    :deletions: 1
+    :commits: 1
+1n:
+  voxpupuli/puppet-zabbix:
+    :additions: 230
+    :deletions: 15
+    :commits: 1
+andresvia:
+  voxpupuli/puppet-zabbix:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+subkowlex:
+  voxpupuli/puppet-zabbix:
+    :additions: 13
+    :deletions: 5
+    :commits: 1
+hmn:
+  voxpupuli/puppet-zabbix:
+    :additions: 14
+    :deletions: 8
+    :commits: 1
+rleemorlang:
+  voxpupuli/puppet-zabbix:
+    :additions: 7
+    :deletions: 0
+    :commits: 1
+claflico:
+  voxpupuli/puppet-zabbix:
+    :additions: 4
+    :deletions: 3
+    :commits: 1
+Oyabi:
+  voxpupuli/puppet-zabbix:
+    :additions: 6
+    :deletions: 0
+    :commits: 1
+DjxDeaf:
+  voxpupuli/puppet-zabbix:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+  voxpupuli/puppet-kafka:
+    :additions: 69
+    :deletions: 29
+    :commits: 5
+akostetskiy:
+  voxpupuli/puppet-zabbix:
+    :additions: 33
+    :deletions: 9
+    :commits: 1
+maciejstromich:
+  voxpupuli/puppet-zabbix:
+    :additions: 1
+    :deletions: 5
+    :commits: 2
+z3rogate:
+  voxpupuli/puppet-zabbix:
+    :additions: 1
+    :deletions: 3
+    :commits: 2
+IceBear2k:
+  voxpupuli/puppet-zabbix:
+    :additions: 3
+    :deletions: 1
+    :commits: 2
+sq4ind:
+  voxpupuli/puppet-zabbix:
+    :additions: 21
+    :deletions: 2
+    :commits: 2
+mschuett:
+  voxpupuli/puppet-zabbix:
+    :additions: 23
+    :deletions: 3
+    :commits: 2
+szemlyanoy:
+  voxpupuli/puppet-zabbix:
+    :additions: 2
+    :deletions: 3
+    :commits: 2
+cbergmann:
+  voxpupuli/puppet-zabbix:
+    :additions: 3
+    :deletions: 1
+    :commits: 2
+ju5t:
+  voxpupuli/puppet-zabbix:
+    :additions: 19
+    :deletions: 30
+    :commits: 2
+nburtsev:
+  voxpupuli/puppet-zabbix:
+    :additions: 34
+    :deletions: 12
+    :commits: 2
+elricsfate:
+  voxpupuli/puppet-zabbix:
+    :additions: 2944
+    :deletions: 2
+    :commits: 2
+cloudowski:
+  voxpupuli/puppet-zabbix:
+    :additions: 153
+    :deletions: 92
+    :commits: 3
+felipe1982:
+  voxpupuli/puppet-zabbix:
+    :additions: 5
+    :deletions: 5
+    :commits: 3
+JvdW:
+  voxpupuli/puppet-zabbix:
+    :additions: 3
+    :deletions: 3
+    :commits: 3
+meganuke19:
+  voxpupuli/puppet-zabbix:
+    :additions: 4
+    :deletions: 3
+    :commits: 3
+sgnl05:
+  voxpupuli/puppet-zabbix:
+    :additions: 20
+    :deletions: 3
+    :commits: 3
+fredprod:
+  voxpupuli/puppet-zabbix:
+    :additions: 5
+    :deletions: 5
+    :commits: 4
+hkumarmk:
+  voxpupuli/puppet-zabbix:
+    :additions: 243
+    :deletions: 5
+    :commits: 4
+ITler:
+  voxpupuli/puppet-zabbix:
+    :additions: 173
+    :deletions: 153
+    :commits: 5
+f0:
+  voxpupuli/puppet-zabbix:
+    :additions: 405
+    :deletions: 366
+    :commits: 5
+karolisc:
+  voxpupuli/puppet-zabbix:
+    :additions: 29
+    :deletions: 6
+    :commits: 5
+lucas42:
+  voxpupuli/puppet-zabbix:
+    :additions: 85
+    :deletions: 31
+    :commits: 7
+genebean:
+  voxpupuli/puppet-zabbix:
+    :additions: 195
+    :deletions: 175
+    :commits: 9
+dj-wasabi:
+  voxpupuli/puppet-zabbix:
+    :additions: 10200
+    :deletions: 1436
+    :commits: 57
+ericsysmin:
+  voxpupuli/puppet-zabbix:
+    :additions: 2111
+    :deletions: 1595
+    :commits: 58
+dalisch:
+  voxpupuli/puppet-rundeck:
+    :additions: 4
+    :deletions: 0
+    :commits: 1
+jbehrends:
+  voxpupuli/puppet-rundeck:
+    :additions: 3
+    :deletions: 3
+    :commits: 1
+gcmalloc:
+  voxpupuli/puppet-rundeck:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+eperdeme:
+  voxpupuli/puppet-rundeck:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+  voxpupuli/puppet-archive:
+    :additions: 2
+    :deletions: 0
+    :commits: 1
+brmorris:
+  voxpupuli/puppet-rundeck:
+    :additions: 2
+    :deletions: 2
+    :commits: 1
+DevOpsFu:
+  voxpupuli/puppet-rundeck:
+    :additions: 42
+    :deletions: 2
+    :commits: 1
+BobVanB:
+  voxpupuli/puppet-rundeck:
+    :additions: 11
+    :deletions: 0
+    :commits: 2
+oloc:
+  voxpupuli/puppet-rundeck:
+    :additions: 15
+    :deletions: 2
+    :commits: 2
+zlanyi:
+  voxpupuli/puppet-rundeck:
+    :additions: 15
+    :deletions: 4
+    :commits: 2
+robertdebock:
+  voxpupuli/puppet-rundeck:
+    :additions: 4
+    :deletions: 5
+    :commits: 2
+  voxpupuli/puppet-gluster:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+bovy89:
+  voxpupuli/puppet-rundeck:
+    :additions: 98
+    :deletions: 62
+    :commits: 3
+remixtj:
+  voxpupuli/puppet-rundeck:
+    :additions: 21
+    :deletions: 16
+    :commits: 3
+SydOps:
+  voxpupuli/puppet-rundeck:
+    :additions: 3
+    :deletions: 2
+    :commits: 3
+benh57:
+  voxpupuli/puppet-rundeck:
+    :additions: 31
+    :deletions: 25
+    :commits: 3
+rkcpi:
+  voxpupuli/puppet-rundeck:
+    :additions: 123
+    :deletions: 19
+    :commits: 4
+zleswomp:
+  voxpupuli/puppet-rundeck:
+    :additions: 36
+    :deletions: 9
+    :commits: 4
+pall-valmundsson:
+  voxpupuli/puppet-rundeck:
+    :additions: 11
+    :deletions: 9
+    :commits: 5
+ak0ska:
+  voxpupuli/puppet-rundeck:
+    :additions: 300
+    :deletions: 97
+    :commits: 5
+rooty0:
+  voxpupuli/puppet-rundeck:
+    :additions: 93
+    :deletions: 14
+    :commits: 6
+devcfgc:
+  voxpupuli/puppet-rundeck:
+    :additions: 25
+    :deletions: 15
+    :commits: 7
+grafjo:
+  voxpupuli/puppet-rundeck:
+    :additions: 247
+    :deletions: 178
+    :commits: 8
+wcooley:
+  voxpupuli/puppet-rundeck:
+    :additions: 177
+    :deletions: 13
+    :commits: 14
+danifr:
+  voxpupuli/puppet-rundeck:
+    :additions: 543
+    :deletions: 396
+    :commits: 15
+pablete:
+  voxpupuli/puppet-kafka:
+    :additions: 3
+    :deletions: 0
+    :commits: 1
+Mike-Petersen:
+  voxpupuli/puppet-kafka:
+    :additions: 39
+    :deletions: 29
+    :commits: 1
+VuokkoVuorinnen:
+  voxpupuli/puppet-kafka:
+    :additions: 21
+    :deletions: 19
+    :commits: 1
+victorgp:
+  voxpupuli/puppet-kafka:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+feniix:
+  voxpupuli/puppet-kafka:
+    :additions: 54
+    :deletions: 17
+    :commits: 1
+ortz:
+  voxpupuli/puppet-kafka:
+    :additions: 6
+    :deletions: 1
+    :commits: 1
+GabrielNicolasAvellaneda:
+  voxpupuli/puppet-kafka:
+    :additions: 38
+    :deletions: 6
+    :commits: 2
+knumor:
+  voxpupuli/puppet-kafka:
+    :additions: 15
+    :deletions: 3
+    :commits: 2
+jolivares:
+  voxpupuli/puppet-kafka:
+    :additions: 21
+    :deletions: 12
+    :commits: 3
+travees:
+  voxpupuli/puppet-kafka:
+    :additions: 23
+    :deletions: 3
+    :commits: 4
+bjoernhaeuser:
+  voxpupuli/puppet-kafka:
+    :additions: 697
+    :deletions: 284
+    :commits: 7
+choffee:
+  voxpupuli/puppet-jenkins_job_builder:
+    :additions: 4
+    :deletions: 0
+    :commits: 1
+gregswift:
+  voxpupuli/puppet-jenkins_job_builder:
+    :additions: 105
+    :deletions: 17
+    :commits: 2
+cdenneen:
+  voxpupuli/puppet-jenkins_job_builder:
+    :additions: 19
+    :deletions: 12
+    :commits: 3
+madAndroid:
+  voxpupuli/puppet-jenkins_job_builder:
+    :additions: 656
+    :deletions: 872
+    :commits: 23
+chuman:
+  voxpupuli/puppet-gluster:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+tux-o-matic:
+  voxpupuli/puppet-gluster:
+    :additions: 31
+    :deletions: 10
+    :commits: 1
+valsr:
+  voxpupuli/puppet-gluster:
+    :additions: 5
+    :deletions: 5
+    :commits: 1
+alvagante:
+  voxpupuli/puppet-extlib:
+    :additions: 22
+    :deletions: 0
+    :commits: 1
+dmitryilyin:
+  voxpupuli/puppet-extlib:
+    :additions: 215
+    :deletions: 71
+    :commits: 1
+logicminds:
+  voxpupuli/puppet-extlib:
+    :additions: 22
+    :deletions: 0
+    :commits: 1
+  voxpupuli/puppet-archive:
+    :additions: 107
+    :deletions: 16
+    :commits: 1
+raphink:
+  voxpupuli/puppet-extlib:
+    :additions: 4
+    :deletions: 0
+    :commits: 2
+  voxpupuli/puppet-puppetserver:
+    :additions: 2868
+    :deletions: 1529
+    :commits: 114
+  voxpupuli/puppet-lint-unquoted_string-check:
+    :additions: 185
+    :deletions: 66
+    :commits: 21
+  voxpupuli/puppet-lint-empty_string-check:
+    :additions: 571
+    :deletions: 123
+    :commits: 25
+  voxpupuli/puppet-lint-spaceship_operator_without_tag-check:
+    :additions: 71
+    :deletions: 50
+    :commits: 12
+  voxpupuli/puppet-lint-absolute_classname-check:
+    :additions: 574
+    :deletions: 78
+    :commits: 26
+  voxpupuli/puppet-lint-undef_in_function-check:
+    :additions: 485
+    :deletions: 46
+    :commits: 16
+  voxpupuli/puppet-lint-leading_zero-check:
+    :additions: 470
+    :deletions: 23
+    :commits: 14
+  voxpupuli/puppet-lint-file_ensure-check:
+    :additions: 562
+    :deletions: 44
+    :commits: 17
+  voxpupuli/puppet-lint-trailing_comma-check:
+    :additions: 890
+    :deletions: 89
+    :commits: 28
+  voxpupuli/puppet-lint-version_comparison-check:
+    :additions: 552
+    :deletions: 37
+    :commits: 19
+  voxpupuli/puppet-lint-appends-check:
+    :additions: 28
+    :deletions: 4
+    :commits: 2
+  voxpupuli/puppet-lint-classes_and_types_beginning_with_digits-check:
+    :additions: 30
+    :deletions: 6
+    :commits: 4
+  voxpupuli/puppet-lint_modulesync_configs:
+    :additions: 433
+    :deletions: 2
+    :commits: 7
+ehelms:
+  voxpupuli/puppet-extlib:
+    :additions: 224
+    :deletions: 3
+    :commits: 2
+SlalomPDX-Thing:
+  voxpupuli/puppet-archive:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+antoineco:
+  voxpupuli/puppet-archive:
+    :additions: 23
+    :deletions: 23
+    :commits: 1
+hdeadman:
+  voxpupuli/puppet-archive:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+robbyt:
+  voxpupuli/puppet-archive:
+    :additions: 2
+    :deletions: 0
+    :commits: 1
+mpepping:
+  voxpupuli/puppet-archive:
+    :additions: 3
+    :deletions: 2
+    :commits: 1
+kyblik:
+  voxpupuli/puppet-archive:
+    :additions: 50
+    :deletions: 26
+    :commits: 1
+glenjamin:
+  voxpupuli/puppet-archive:
+    :additions: 41
+    :deletions: 1
+    :commits: 1
+hfm:
+  voxpupuli/puppet-archive:
+    :additions: 6
+    :deletions: 0
+    :commits: 1
+epienbroek:
+  voxpupuli/puppet-archive:
+    :additions: 3
+    :deletions: 1
+    :commits: 1
+thiagomarinho:
+  voxpupuli/puppet-archive:
+    :additions: 45
+    :deletions: 4
+    :commits: 2
+randradas:
+  voxpupuli/puppet-archive:
+    :additions: 2
+    :deletions: 2
+    :commits: 2
+dylanratcliffe:
+  voxpupuli/puppet-archive:
+    :additions: 3
+    :deletions: 1
+    :commits: 2
+craigmunro:
+  voxpupuli/puppet-archive:
+    :additions: 14
+    :deletions: 1
+    :commits: 3
+aerostitch:
+  voxpupuli/puppet-archive:
+    :additions: 90
+    :deletions: 28
+    :commits: 6
+hajee:
+  voxpupuli/puppet-archive:
+    :additions: 612
+    :deletions: 318
+    :commits: 8
+jairojunior:
+  voxpupuli/puppet-archive:
+    :additions: 131
+    :deletions: 51
+    :commits: 8
+kylog:
+  voxpupuli/puppet-nagios_providers:
+    :additions: 926
+    :deletions: 0
+    :commits: 1
+willaerk:
+  voxpupuli/puppet-puppetserver:
+    :additions: 1
+    :deletions: 3
+    :commits: 1
+tosmi:
+  voxpupuli/puppet-puppetserver:
+    :additions: 85
+    :deletions: 21
+    :commits: 2
+mmckinst:
+  voxpupuli/puppet-puppetserver:
+    :additions: 8
+    :deletions: 2
+    :commits: 2
+timhammond:
+  voxpupuli/puppet-mysql_java_connector:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+stefanlasiewski:
+  voxpupuli/puppet-mysql_java_connector:
+    :additions: 11
+    :deletions: 11
+    :commits: 1
+apeeters:
+  voxpupuli/puppet-unattended_upgrades:
+    :additions: 19
+    :deletions: 10
+    :commits: 1
+b4ldr:
+  voxpupuli/puppet-unattended_upgrades:
+    :additions: 150
+    :deletions: 1
+    :commits: 1
+GhostLyrics:
+  voxpupuli/puppet-unattended_upgrades:
+    :additions: 1
+    :deletions: 1
+    :commits: 1
+mpdude:
+  voxpupuli/puppet-unattended_upgrades:
+    :additions: 12
+    :deletions: 1
+    :commits: 1
+zeha:
+  voxpupuli/puppet-unattended_upgrades:
+    :additions: 2
+    :deletions: 1
+    :commits: 1
+fbarbeira:
+  voxpupuli/puppet-unattended_upgrades:
+    :additions: 21
+    :deletions: 2
+    :commits: 2
+clauded:
+  voxpupuli/puppet-unattended_upgrades:
+    :additions: 15
+    :deletions: 11
+    :commits: 3
+raoulbhatia:
+  voxpupuli/puppet-unattended_upgrades:
+    :additions: 268
+    :deletions: 16
+    :commits: 4
+vStone:
+  voxpupuli/puppet-lint-resource_reference_syntax:
+    :additions: 10
+    :deletions: 1
+    :commits: 1
+ahpook:
+  voxpupuli/puppet-tea:
+    :additions: 36
+    :deletions: 8
+    :commits: 2
+zreichert:
+  voxpupuli/puppet-squid:
+    :additions: 91
+    :deletions: 1
+    :commits: 1
+traylenator:
+  voxpupuli/puppet-squid:
+    :additions: 1514
+    :deletions: 334
+    :commits: 34
