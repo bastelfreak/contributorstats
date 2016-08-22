@@ -17,23 +17,28 @@ repos.each do |repo|
   sleep 2
   puts "processing #{repo}"
   uri = URI("https://api.github.com/repos/#{repo}/stats/contributors?access_token=#{token}")
-  json = JSON.parse(Net::HTTP.get(uri))
+  json = Net::HTTP.get(uri)
+  json = JSON.parse(json)
   json.each do |u|
-    additions = 0
-    deletions = 0
-    commits = 0
+    additions_count = 0
+    deletions_count = 0
+    commits_count = 0
     #p u
     user = u['author']['login']
     alllll_the_data[user] = {} unless alllll_the_data[user]
     u['weeks'].each do |w|
-      additions += w['a']
-      deletions += w['d']
-      commits += w['c']
+      additions_count += w['a']
+      deletions_count += w['d']
+      commits_count += w['c']
     end
-    alllll_the_data[user][repo] = {additions: additions, deletions: deletions, commits: commits}
+    alllll_the_data[user][repo] = {additions: additions_count, deletions: deletions_count, commits: commits_count}
+    puts "user #{user} made: #{alllll_the_data[user][repo]} in repo #{repo}" if user == 'bastelfreak'
+    #exit
     #p {additions: additions, deletions: deletions, commits: commits}
     #puts "#{u['author']['login']} #{a.to_s}, #{d.to_s} #{c.to_s}"
   end
+#  puts alllll_the_data
+#  break
 end
 yamlstuff = alllll_the_data.to_yaml
 
